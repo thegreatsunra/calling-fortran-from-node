@@ -3,10 +3,12 @@
   "version": "0.0.0",
   "description": "Calling Fortran from within Node",
   "scripts": {
+    "install": "node-gyp rebuild"
   },
   "author": "Dane Petersen",
   "license": "MIT",
   "gypfile": true,
   "dependencies": {
+    "node-gyp": "^0.13.0"
   }
 }
