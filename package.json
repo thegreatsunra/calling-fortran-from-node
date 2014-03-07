@@ -2,6 +2,7 @@
   "name": "calling-fortran-from-node",
   "version": "0.0.0",
   "description": "Calling Fortran from within Node",
+  "main": "hello_fortran.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "node-gyp rebuild"
