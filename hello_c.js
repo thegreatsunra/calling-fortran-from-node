@@ -1,3 +1,3 @@
 var addon = require('./build/Release/hello');
 
-console.log(addon.hello_c());
+console.log(addon.hello());
