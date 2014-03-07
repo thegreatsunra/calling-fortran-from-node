@@ -1,0 +1,12 @@
+{
+  "name": "calling-fortran-from-node",
+  "version": "0.0.0",
+  "description": "Calling Fortran from within Node",
+  "scripts": {
+  },
+  "author": "Dane Petersen",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+  }
+}
